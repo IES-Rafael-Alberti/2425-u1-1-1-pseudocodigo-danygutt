@@ -1,0 +1,8 @@
+Lee numero
+    Comprobar que numero es un numero.
+    Si numero (es impar) entonces
+            Escribe "Es impar"
+        Sino
+            Si numero (es par) entonces
+                Escribe "Es par"
+Fin
